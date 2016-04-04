@@ -115,7 +115,7 @@ public class RegForm extends Frame implements ActionListener
 				break;
 				else
 				i++;
-				if((i==len-3))
+				if((i==len-4))
 				{
 					JOptionPane.showMessageDialog(null,"Invalid email id!","Error",JOptionPane.WARNING_MESSAGE);
 				}
